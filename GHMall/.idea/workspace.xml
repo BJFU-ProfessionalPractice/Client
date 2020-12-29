@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="cb658833-ff62-4a3f-9ab2-21cf63ea070b" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/gradle.properties" beforeDir="false" afterPath="$PROJECT_DIR$/android/gradle.properties" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="Pixel_XL_API_30" />
+  <component name="FavoritesManager">
+    <favorites_list name="GHMall" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Dart File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1fQ088UGSVjT7ukNUrTlRiRfSk1" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="android.sdk.path" value="$USER_HOME$/Library/Android/sdk" />
+    <property name="dart.analysis.tool.window.force.activate" value="false" />
+    <property name="io.flutter.reload.alreadyRun" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="dart.settings" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="RunManager">
+    <configuration name="main.dart" type="FlutterRunConfigurationType" factoryName="Flutter" singleton="false">
+      <option name="filePath" value="$PROJECT_DIR$/lib/main.dart" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cb658833-ff62-4a3f-9ab2-21cf63ea070b" name="Default Changelist" comment="" />
+      <created>1592740531740</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1592740531740</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="-1941" y="348" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1602490886957">
+      <screen x="-2560" y="23" width="2560" height="1417" />
+    </state>
+    <state x="-1941" y="348" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1440.784/-2560.23.2560.1417@-2560.23.2560.1417" timestamp="1602490886957" />
+    <state width="1724" height="309" key="GridCell.Tab.0.bottom" timestamp="1607663447792">
+      <screen x="-1920" y="23" width="1920" height="1057" />
+    </state>
+    <state width="1724" height="309" key="GridCell.Tab.0.bottom/0.23.1440.796/-1920.23.1920.1057@-1920.23.1920.1057" timestamp="1607663447792" />
+    <state width="1858" height="242" key="GridCell.Tab.0.bottom/0.23.1440.877/-1920.131.1920.1057@-1920.131.1920.1057" timestamp="1599355965867" />
+    <state width="1724" height="309" key="GridCell.Tab.0.center" timestamp="1607663447792">
+      <screen x="-1920" y="23" width="1920" height="1057" />
+    </state>
+    <state width="1724" height="309" key="GridCell.Tab.0.center/0.23.1440.796/-1920.23.1920.1057@-1920.23.1920.1057" timestamp="1607663447792" />
+    <state width="1858" height="242" key="GridCell.Tab.0.center/0.23.1440.877/-1920.131.1920.1057@-1920.131.1920.1057" timestamp="1599355965867" />
+    <state width="1724" height="309" key="GridCell.Tab.0.left" timestamp="1607663447791">
+      <screen x="-1920" y="23" width="1920" height="1057" />
+    </state>
+    <state width="1724" height="309" key="GridCell.Tab.0.left/0.23.1440.796/-1920.23.1920.1057@-1920.23.1920.1057" timestamp="1607663447791" />
+    <state width="1858" height="242" key="GridCell.Tab.0.left/0.23.1440.877/-1920.131.1920.1057@-1920.131.1920.1057" timestamp="1599355965866" />
+    <state width="1724" height="309" key="GridCell.Tab.0.right" timestamp="1607663447792">
+      <screen x="-1920" y="23" width="1920" height="1057" />
+    </state>
+    <state width="1724" height="309" key="GridCell.Tab.0.right/0.23.1440.796/-1920.23.1920.1057@-1920.23.1920.1057" timestamp="1607663447792" />
+    <state width="1858" height="242" key="GridCell.Tab.0.right/0.23.1440.877/-1920.131.1920.1057@-1920.131.1920.1057" timestamp="1599355965867" />
+    <state x="-1578" y="415" width="929" height="588" key="find.popup" timestamp="1606922777932">
+      <screen x="-1920" y="131" width="1920" height="1057" />
+    </state>
+    <state x="-1578" y="415" width="929" height="588" key="find.popup/0.23.1440.796/-1920.131.1920.1057@-1920.131.1920.1057" timestamp="1606922777932" />
+    <state x="-1463" y="602" width="927" height="586" key="find.popup/0.23.1440.877/-1920.131.1920.1057@-1920.131.1920.1057" timestamp="1599355920172" />
+    <state x="-2104" y="404" width="1238" height="787" key="find.popup/0.23.1440.877/-2560.23.2560.1417@-2560.23.2560.1417" timestamp="1601286056849" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="Dart">
+          <url>file://$PROJECT_DIR$/lib/pages/GHGoodsDetails.dart</url>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="Dart">
+          <url>file://$PROJECT_DIR$/lib/main.dart</url>
+          <line>10</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="Dart">
+          <url>file://$PROJECT_DIR$/lib/pages/tabs/GHCategoryPage.dart</url>
+          <line>300</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="Dart">
+          <url>file://$PROJECT_DIR$/lib/widget/GHButton.dart</url>
+          <line>6</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
