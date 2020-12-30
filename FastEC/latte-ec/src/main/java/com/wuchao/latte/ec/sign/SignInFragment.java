@@ -61,7 +61,7 @@ public class SignInFragment extends LatteFragment {
 //        SignHandler.onSignIn("", mISignListener);
 //        /*if (checkForm()) {
             RxRestClient.builder()
-                    .url("login")
+                    .url("user_profile")
                     .params("email", mEmail.getText().toString())
                     .params("password", mPassword.getText().toString())
                     .build()
