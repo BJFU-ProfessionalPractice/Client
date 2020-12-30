@@ -7,14 +7,21 @@ import android.support.design.widget.TextInputEditText;
 import android.util.Patterns;
 import android.view.View;
 
+import com.orhanobut.logger.Logger;
 import com.wuchao.ec.R;
 import com.wuchao.ec.R2;
 import com.wuchao.latte.Fragment.LatteFragment;
+import com.wuchao.latte.net.rx.RxRestClient;
+import com.wuchao.latte.util.log.LatteLogger;
 import com.wuchao.latte.wechat.LatteWeChat;
 import com.wuchao.latte.wechat.callbacks.IWeChatSignInCallback;
 
 import butterknife.BindView;
 import butterknife.OnClick;
+import io.reactivex.Observer;
+import io.reactivex.android.schedulers.AndroidSchedulers;
+import io.reactivex.disposables.Disposable;
+import io.reactivex.schedulers.Schedulers;
 
 /**
  * @author: wuchao
@@ -51,10 +58,10 @@ public class SignInFragment extends LatteFragment {
 
     @OnClick({R2.id.btn_sign_in})
     public void onClickSignIn() {
-        SignHandler.onSignIn("", mISignListener);
-        /*if (checkForm()) {
+//        SignHandler.onSignIn("", mISignListener);
+//        /*if (checkForm()) {
             RxRestClient.builder()
-                    .url("user_profile.php")
+                    .url("login")
                     .params("email", mEmail.getText().toString())
                     .params("password", mPassword.getText().toString())
                     .build()
@@ -64,7 +71,7 @@ public class SignInFragment extends LatteFragment {
                     .subscribe(new Observer<String>() {
                         @Override
                         public void onSubscribe(Disposable d) {
-
+                            Logger.d("test");
                         }
 
                         @Override
@@ -75,15 +82,15 @@ public class SignInFragment extends LatteFragment {
 
                         @Override
                         public void onError(Throwable e) {
-
+                            Logger.d("test");
                         }
 
                         @Override
                         public void onComplete() {
-
+                            Logger.d("test");
                         }
                     });
-        }*/
+//        }*/
     }
 
     @OnClick({R2.id.tv_link_sign_up})
