@@ -110,7 +110,7 @@ public class SignUpFragment extends LatteFragment {
     public void onClickSignUp() {
         //if (checkForm()) {
             RxRestClient.builder()
-                    .url("user_profile.php")
+                    .url("user_profile")
                     .params("name", mName.getText().toString())
                     .params("email", mEmail.getText().toString())
                     .params("phone", mPhone.getText().toString())

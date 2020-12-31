@@ -57,7 +57,7 @@ public class RefreshHandler implements SwipeRefreshLayout.OnRefreshListener, Bas
             public void run() {
                 //进行网络请求
                 REFRESH_LAYOUT.setRefreshing(false);
-                firstPage("index.php");
+                firstPage("index");
             }
         }, 2000);
     }

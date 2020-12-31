@@ -96,7 +96,7 @@ public class IndexFragment extends BottomItemFragment implements View.OnFocusCha
         super.onLazyInitView(savedInstanceState);
         initRefreshLayout();
         initRecyclerView();
-        mRefreshHandler.firstPage("index.php");
+        mRefreshHandler.firstPage("index");
     }
 
     @Override

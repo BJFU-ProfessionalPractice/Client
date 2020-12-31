@@ -54,7 +54,7 @@ public class OrderListFragment extends LatteFragment {
     public void onLazyInitView(@Nullable Bundle savedInstanceState) {
         super.onLazyInitView(savedInstanceState);
         RxRestClient.builder()
-                .url("order_list.php")
+                .url("order_list")
                 .params("type", mType)
                 .build()
                 .get()

@@ -66,7 +66,7 @@ public class ContentFragment extends LatteFragment {
 
     private void initData() {
         RxRestClient.builder()
-                .url("sort_content_list.php?contentId=" + mContentId)
+                .url("sort_content_list?contentId=" + mContentId)
                 .build()
                 .get()
                 .observeOn(AndroidSchedulers.mainThread())

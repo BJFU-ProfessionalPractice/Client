@@ -53,7 +53,7 @@ public class VerticalListFragment extends LatteFragment {
     public void onLazyInitView(@Nullable Bundle savedInstanceState) {
         super.onLazyInitView(savedInstanceState);
         RxRestClient.builder()
-                .url("sort_list.php")
+                .url("sort_list")
                 .loader(getContext())
                 .build()
                 .get()

@@ -192,7 +192,7 @@ public class ShopCartFragment extends BottomItemFragment implements ICartItemLis
     public void onLazyInitView(@Nullable Bundle savedInstanceState) {
         super.onLazyInitView(savedInstanceState);
         RxRestClient.builder()
-                .url("shop_cart.php")
+                .url("shop_cart")
                 .build()
                 .get()
                 .observeOn(AndroidSchedulers.mainThread())

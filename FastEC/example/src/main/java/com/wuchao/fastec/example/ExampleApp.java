@@ -37,7 +37,7 @@ public class ExampleApp extends Application {
         super.onCreate();
 //        String baseUrl = "http://952cloud.top/RestServer/api/";
 //        String baseUrl="http://oxjde2kpq.bkt.clouddn.com/";
-        String baseUrl="https://2594eb36-95ed-4e49-8cef-7169895e6bb8.mock.pstmn.io";
+        String baseUrl="https://e047e686-ffad-4d52-9ff8-27dc01ac747d.mock.pstmn.io";
         Latte.init(this)
                 .withIcon(new FontAwesomeModule())
                 .withIcon(new FontEcModule())
