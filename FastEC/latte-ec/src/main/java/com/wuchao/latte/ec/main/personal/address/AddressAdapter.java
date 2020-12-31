@@ -48,7 +48,7 @@ public class AddressAdapter extends MultipleRecyclerAdapter {
                     @Override
                     public void onClick(View v) {
                         RxRestClient.builder()
-                                .url("address.php")
+                                .url("address")
                                 .params("id", id)
                                 .build()
                                 .post()

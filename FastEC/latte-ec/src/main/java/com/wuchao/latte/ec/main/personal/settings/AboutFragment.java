@@ -36,7 +36,7 @@ public class AboutFragment extends LatteFragment {
     @Override
     public void onBindView(@Nullable Bundle savedInstanceState, View rootView) {
         RxRestClient.builder()
-                .url("about.php")
+                .url("about")
                 .loader(getContext())
                 .build()
                 .get()

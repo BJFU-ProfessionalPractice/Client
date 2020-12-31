@@ -40,7 +40,7 @@ public class AddressFragment extends LatteFragment {
     @Override
     public void onBindView(@Nullable Bundle savedInstanceState, View rootView) {
         RxRestClient.builder()
-                .url("address.php")
+                .url("address")
                 .loader(getContext())
                 .build()
                 .get()

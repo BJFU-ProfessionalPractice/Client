@@ -1,10 +1,13 @@
 package com.wuchao.latte.ec.sign;
 
+import android.widget.TextView;
+
 import com.alibaba.fastjson.JSON;
 import com.alibaba.fastjson.JSONObject;
 import com.wuchao.latte.app.AccountManager;
 import com.wuchao.latte.ec.database.DatabaseManager;
 import com.wuchao.latte.ec.database.UserProfile;
+import com.wuchao.ec.R;
 
 /**
  * @author: wuchao
