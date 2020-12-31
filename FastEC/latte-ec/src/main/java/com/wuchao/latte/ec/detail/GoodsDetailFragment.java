@@ -137,7 +137,7 @@ public class GoodsDetailFragment extends LatteFragment implements
 
     private void initData() {
         RxRestClient.builder()
-                .url("goods_detail.php")
+                .url("goods_detail")
                 .params("goods_id", mGoodsId)
                 .loader(getContext())
                 .build()
