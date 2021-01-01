@@ -6,10 +6,12 @@ import android.support.annotation.Nullable;
 import android.support.design.widget.TextInputEditText;
 import android.util.Patterns;
 import android.view.View;
+import android.widget.Toast;
 
 import com.wuchao.ec.R;
 import com.wuchao.ec.R2;
 import com.wuchao.latte.Fragment.LatteFragment;
+import com.wuchao.latte.app.Latte;
 import com.wuchao.latte.net.rx.RxRestClient;
 import com.wuchao.latte.util.log.LatteLogger;
 
@@ -28,16 +30,16 @@ import io.reactivex.schedulers.Schedulers;
 
 public class SignUpFragment extends LatteFragment {
 
-    @BindView(R2.id.edit_sign_up_name)
-    TextInputEditText mName;
-    @BindView(R2.id.edit_sign_up_email)
-    TextInputEditText mEmail;
-    @BindView(R2.id.edit_sign_up_phone)
-    TextInputEditText mPhone;
+    @BindView(R2.id.edit_sign_up_username)
+    TextInputEditText mUserName;
     @BindView(R2.id.edit_sign_up_password)
     TextInputEditText mPassword;
-    @BindView(R2.id.edit_sign_up_re_password)
-    TextInputEditText mRePassword;
+    @BindView(R2.id.edit_sign_up_phone)
+    TextInputEditText mPhone;
+    @BindView(R2.id.edit_sign_up_question)
+    TextInputEditText mQuestion;
+    @BindView(R2.id.edit_sign_up_answer)
+    TextInputEditText mAnswer;
 
     private ISignListener mISignListener = null;
 
@@ -50,33 +52,33 @@ public class SignUpFragment extends LatteFragment {
     }
 
     private boolean checkForm() {
-        final String name = mName.getText().toString();
-        final String email = mEmail.getText().toString();
-        final String phone = mPhone.getText().toString();
+        final String name = mUserName.getText().toString();
+        final String question = mQuestion.getText().toString();
+        final String answer = mAnswer.getText().toString();
         final String password = mPassword.getText().toString();
-        final String rePassword = mRePassword.getText().toString();
+        final String phone = mPhone.getText().toString();
 
         boolean isPass = true;
 
         if (name.isEmpty()) {
-            mName.setError("请输入姓名");
+            mUserName.setError("请输入姓名");
             isPass = false;
         } else {
-            mName.setError(null);
+            mUserName.setError(null);
         }
 
-        if (email.isEmpty() || !Patterns.EMAIL_ADDRESS.matcher(email).matches()) {
-            mEmail.setError("错误的邮箱格式");
-            isPass = false;
-        } else {
-            mEmail.setError(null);
-        }
+//        if (email.isEmpty() || !Patterns.EMAIL_ADDRESS.matcher(email).matches()) {
+//            mQuestion.setError("错误的邮箱格式");
+//            isPass = false;
+//        } else {
+//            mQuestion.setError(null);
+//        }
 
         if (phone.isEmpty()) {
-            mPhone.setError("手机号码错误");
+            mAnswer.setError("手机号码错误");
             isPass = false;
         } else {
-            mPhone.setError(null);
+            mAnswer.setError(null);
         }
 
         if (password.isEmpty()) {
@@ -86,12 +88,12 @@ public class SignUpFragment extends LatteFragment {
             mPassword.setError(null);
         }
 
-        if (rePassword.isEmpty() || rePassword.length() < 6 || !(rePassword.equals(password))) {
-            mRePassword.setError("密码验证错误");
-            isPass = false;
-        } else {
-            mRePassword.setError(null);
-        }
+//        if (rePassword.isEmpty() || rePassword.length() < 6 || !(rePassword.equals(password))) {
+//            mPhone.setError("密码验证错误");
+//            isPass = false;
+//        } else {
+//            mPhone.setError(null);
+//        }
 
         return isPass;
     }
@@ -110,11 +112,11 @@ public class SignUpFragment extends LatteFragment {
     public void onClickSignUp() {
         //if (checkForm()) {
             RxRestClient.builder()
-                    .url("user_profile")
-                    .params("name", mName.getText().toString())
-                    .params("email", mEmail.getText().toString())
-                    .params("phone", mPhone.getText().toString())
+                    .url("user/regist")
+                    .params("username", mUserName.getText().toString())
                     .params("password", mPassword.getText().toString())
+                    .params("answer", mQuestion.getText().toString())
+                    .params("question", mAnswer.getText().toString())
                     .build()
                     .post()
                     .subscribeOn(Schedulers.io())
@@ -141,7 +143,7 @@ public class SignUpFragment extends LatteFragment {
 
                         }
                     });
-            //Toast.makeText(Latte.getApplicationContext(), "验证通过", Toast.LENGTH_LONG).show();
+            Toast.makeText(Latte.getApplicationContext(), "验证通过", Toast.LENGTH_LONG).show();
         //}
     }
 

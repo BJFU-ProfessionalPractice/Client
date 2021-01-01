@@ -31,8 +31,8 @@ import io.reactivex.schedulers.Schedulers;
 
 public class SignInFragment extends LatteFragment {
 
-    @BindView(R2.id.edit_sign_in_email)
-    TextInputEditText mEmail;
+    @BindView(R2.id.edit_sign_in_username)
+    TextInputEditText mUsername;
     @BindView(R2.id.edit_sign_in_password)
     TextInputEditText mPassword;
 
@@ -61,8 +61,8 @@ public class SignInFragment extends LatteFragment {
 //        SignHandler.onSignIn("", mISignListener);
 //        /*if (checkForm()) {
             RxRestClient.builder()
-                    .url("user_profile")
-                    .params("email", mEmail.getText().toString())
+                    .url("/user/login")
+                    .params("username", mUsername.getText().toString())
                     .params("password", mPassword.getText().toString())
                     .build()
                     .post()
@@ -109,16 +109,16 @@ public class SignInFragment extends LatteFragment {
     }
 
     private boolean checkForm() {
-        final String email = mEmail.getText().toString();
+        final String email = mUsername.getText().toString();
         final String password = mPassword.getText().toString();
 
         boolean isPass = true;
-        if (email.isEmpty() || !Patterns.EMAIL_ADDRESS.matcher(email).matches()) {
-            mEmail.setError("错误的邮箱格式");
-            isPass = false;
-        } else {
-            mEmail.setError(null);
-        }
+//        if (email.isEmpty() || !Patterns.EMAIL_ADDRESS.matcher(email).matches()) {
+//            mUsername.setError("错误的邮箱格式");
+//            isPass = false;
+//        } else {
+//            mUsername.setError(null);
+//        }
 
         if (password.isEmpty()) {
             mPassword.setError("请填写至少6位数密码");
