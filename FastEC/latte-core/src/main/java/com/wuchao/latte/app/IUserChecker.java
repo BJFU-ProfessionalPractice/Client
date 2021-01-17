@@ -1,8 +1,8 @@
 package com.wuchao.latte.app;
 
 /**
- * @author: wuchao
- * @date: 2017/11/27 18:58
+ * @author: gary
+ * @date: 2020/11/27 18:58
  * @desciption: 用户信息
  */
 

@@ -26,8 +26,8 @@ import permissions.dispatcher.PermissionRequest;
 import permissions.dispatcher.RuntimePermissions;
 
 /**
- * @author: wuchao
- * @date: 2017/10/22 23:00
+ * @author: gary
+ * @date: 2020/10/22 23:00
  * @desciption: 对权限的判断
  */
 

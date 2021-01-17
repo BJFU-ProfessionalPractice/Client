@@ -6,8 +6,8 @@ import android.database.sqlite.SQLiteDatabase;
 import org.greenrobot.greendao.database.Database;
 
 /**
- * @author: wuchao
- * @date: 2017/11/26 22:22
+ * @author: gary
+ * @date: 2020/11/26 22:22
  * @desciption:
  */
 

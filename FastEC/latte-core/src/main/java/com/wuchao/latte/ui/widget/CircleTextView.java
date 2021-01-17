@@ -11,8 +11,8 @@ import android.support.v7.widget.AppCompatTextView;
 import android.util.AttributeSet;
 
 /**
- * @author: wuchao
- * @date: 2018/1/18 18:33
+ * @author: gary
+ * @date: 1/8 18:33
  * @desciption:
  */
 

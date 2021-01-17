@@ -10,8 +10,8 @@ import com.wuchao.latte.ec.main.sort.content.ContentFragment;
 import com.wuchao.latte.ec.main.sort.list.VerticalListFragment;
 
 /**
- * @author: wuchao
- * @date: 2017/12/17 16:45
+ * @author: gary
+ * @date: 2020/12/17 16:45
  * @desciption:
  */
 

@@ -5,8 +5,8 @@ import org.greenrobot.greendao.annotation.Id;
 import org.greenrobot.greendao.annotation.Generated;
 
 /**
- * @author: wuchao
- * @date: 2017/11/26 22:18
+ * @author: gary
+ * @date: 2020/11/26 22:18
  * @desciption:
  */
 @Entity(nameInDb = "user_profile")

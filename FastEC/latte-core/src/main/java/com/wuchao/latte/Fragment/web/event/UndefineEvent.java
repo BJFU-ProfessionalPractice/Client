@@ -3,8 +3,8 @@ package com.wuchao.latte.Fragment.web.event;
 import com.wuchao.latte.util.log.LatteLogger;
 
 /**
- * @author: wuchao
- * @date: 2017/11/29 22:44
+ * @author: gary
+ * @date: 2020/11/29 22:44
  * @desciption:
  */
 

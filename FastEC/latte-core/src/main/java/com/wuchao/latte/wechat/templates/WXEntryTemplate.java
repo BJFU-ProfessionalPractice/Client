@@ -4,8 +4,8 @@ import com.wuchao.latte.wechat.BaseWXEntryActivity;
 import com.wuchao.latte.wechat.LatteWeChat;
 
 /**
- * @author: wuchao
- * @date: 2017/12/27 23:03
+ * @author: gary
+ * @date: 2020/12/27 23:03
  * @desciption:
  */
 

@@ -1,8 +1,8 @@
 package com.wuchao.latte.ec.sign;
 
 /**
- * @author: wuchao
- * @date: 2017/11/27 19:04
+ * @author: gary
+ * @date: 2020/11/27 19:04
  * @desciption:
  */
 

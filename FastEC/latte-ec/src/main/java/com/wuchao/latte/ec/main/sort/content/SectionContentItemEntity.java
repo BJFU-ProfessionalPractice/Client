@@ -1,8 +1,8 @@
 package com.wuchao.latte.ec.main.sort.content;
 
 /**
- * @author: wuchao
- * @date: 2017/12/20 21:17
+ * @author: gary
+ * @date: 2020/12/20 21:17
  * @desciption:
  */
 

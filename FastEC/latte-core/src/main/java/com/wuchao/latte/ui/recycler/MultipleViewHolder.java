@@ -5,8 +5,8 @@ import android.view.View;
 import com.chad.library.adapter.base.BaseViewHolder;
 
 /**
- * @author: wuchao
- * @date: 2017/12/7 22:58
+ * @author: gary
+ * @date: 2020/12/7 22:58
  * @desciption:
  */
 

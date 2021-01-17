@@ -16,8 +16,8 @@ import com.wuchao.latte.ui.recycler.MultipleViewHolder;
 import java.util.List;
 
 /**
- * @author: wuchao
- * @date: 2018/1/2 22:49
+ * @author: gary
+ * @date: 1/2 22:49
  * @desciption:
  */
 

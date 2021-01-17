@@ -3,8 +3,8 @@ package com.wuchao.latte.ec.icon;
 import com.joanzapata.iconify.Icon;
 
 /**
- * @author: wuchao
- * @date: 2017/10/18 22:53
+ * @author: gary
+ * @date: 2020/10/18 22:53
  * @desciption:
  */
 

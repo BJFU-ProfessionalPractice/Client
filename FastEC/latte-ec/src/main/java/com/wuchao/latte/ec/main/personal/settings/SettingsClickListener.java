@@ -8,8 +8,8 @@ import com.wuchao.latte.Fragment.LatteFragment;
 import com.wuchao.latte.ec.main.personal.list.ListBean;
 
 /**
- * @author: wuchao
- * @date: 2018/1/9 22:17
+ * @author: gary
+ * @date: 1/9 22:17
  * @desciption:
  */
 

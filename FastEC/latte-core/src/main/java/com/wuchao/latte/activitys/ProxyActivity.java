@@ -18,8 +18,8 @@ import me.yokeyword.fragmentation.SupportHelper;
 import me.yokeyword.fragmentation.anim.FragmentAnimator;
 
 /**
- * @author: wuchao
- * @date: 2017/10/22 22:45
+ * @author: gary
+ * @date: 2020/10/22 22:45
  * @desciption: 作为整个页面唯一容器使用
  */
 

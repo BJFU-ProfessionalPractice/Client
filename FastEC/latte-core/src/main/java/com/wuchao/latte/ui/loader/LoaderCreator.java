@@ -8,8 +8,8 @@ import com.wang.avi.Indicator;
 import java.util.WeakHashMap;
 
 /**
- * @author: wuchao
- * @date: 2017/10/24 23:11
+ * @author: gary
+ * @date: 2020/10/24 23:11
  * @desciption: 官方的加载方式是通过反射，通过取loader的名字来加载loader;
  * 以一种缓存的方式创建loader，就不需要每次使用loader时就反射一次，提高性能
  */

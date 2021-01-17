@@ -14,8 +14,8 @@ import com.wuchao.latte.Fragment.LatteFragment;
 import butterknife.BindView;
 
 /**
- * @author: wuchao
- * @date: 2018/1/20 18:05
+ * @author: gary
+ * @date: 1/2 18:05
  * @desciption:
  */
 

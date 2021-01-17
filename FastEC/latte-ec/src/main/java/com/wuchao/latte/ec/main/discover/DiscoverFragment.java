@@ -12,8 +12,8 @@ import me.yokeyword.fragmentation.anim.DefaultHorizontalAnimator;
 import me.yokeyword.fragmentation.anim.FragmentAnimator;
 
 /**
- * @author: wuchao
- * @date: 2017/12/20 21:55
+ * @author: gary
+ * @date: 2020/12/20 21:55
  * @desciption:
  */
 

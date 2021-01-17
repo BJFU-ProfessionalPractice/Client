@@ -3,8 +3,8 @@ package com.wuchao.latte.ec.pay;
 import android.text.TextUtils;
 
 /**
- * @author: wuchao
- * @date: 2018/1/1 18:19
+ * @author: gary
+ * @date: 1/1 18:19
  * @desciption:
  */
 

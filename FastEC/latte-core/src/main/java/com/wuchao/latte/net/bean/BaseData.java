@@ -1,8 +1,8 @@
 package com.wuchao.latte.net.bean;
 
 /**
- * @author: wuchao
- * @date: 2018/2/1 18:44
+ * @author: gary
+ * @date: 1/1 18:44
  * @desciption: 返回数据基类
  */
 

@@ -3,8 +3,8 @@ package com.wuchao.latte.net.interfaces;
 import io.reactivex.disposables.Disposable;
 
 /**
- * @author: wuchao
- * @date: 2018/2/1 18:50
+ * @author: gary
+ * @date: 1/1 18:50
  * @desciption: 定义请求结果处理接口
  */
 

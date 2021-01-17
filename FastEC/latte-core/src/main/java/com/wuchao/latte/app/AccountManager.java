@@ -3,8 +3,8 @@ package com.wuchao.latte.app;
 import com.wuchao.latte.util.storage.LattePreference;
 
 /**
- * @author: wuchao
- * @date: 2017/11/27 19:00
+ * @author: gary
+ * @date: 2020/11/27 19:00
  * @desciption: 管理用户信息
  */
 

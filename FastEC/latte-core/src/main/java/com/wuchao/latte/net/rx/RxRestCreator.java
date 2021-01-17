@@ -14,8 +14,8 @@ import retrofit2.adapter.rxjava2.RxJava2CallAdapterFactory;
 import retrofit2.converter.scalars.ScalarsConverterFactory;
 
 /**
- * @author: wuchao
- * @date: 2017/10/23 22:53
+ * @author: gary
+ * @date: 2020/10/23 22:53
  * @desciption:
  */
 

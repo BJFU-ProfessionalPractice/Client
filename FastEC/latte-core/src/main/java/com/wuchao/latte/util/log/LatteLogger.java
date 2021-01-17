@@ -3,8 +3,8 @@ package com.wuchao.latte.util.log;
 import com.orhanobut.logger.Logger;
 
 /**
- * @author: wuchao
- * @date: 2017/11/27 17:12
+ * @author: gary
+ * @date: 2020/11/27 17:12
  * @desciption:
  */
 

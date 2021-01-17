@@ -17,8 +17,8 @@ import io.reactivex.functions.Consumer;
 import io.reactivex.schedulers.Schedulers;
 
 /**
- * @author: wuchao
- * @date: 2018/1/7 22:15
+ * @author: gary
+ * @date: 1/7 22:15
  * @desciption:
  */
 

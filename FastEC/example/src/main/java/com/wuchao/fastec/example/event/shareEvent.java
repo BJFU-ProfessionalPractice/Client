@@ -4,8 +4,8 @@ import com.blankj.utilcode.util.ToastUtils;
 import com.wuchao.latte.Fragment.web.event.Event;
 
 /**
- * @author: wuchao
- * @date: 2018/1/18 16:48
+ * @author: gary
+ * @date: 1/1 16:48
  * @desciption:
  */
 

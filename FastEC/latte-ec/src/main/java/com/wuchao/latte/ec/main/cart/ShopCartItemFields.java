@@ -1,8 +1,8 @@
 package com.wuchao.latte.ec.main.cart;
 
 /**
- * @author: wuchao
- * @date: 2017/12/24 00:10
+ * @author: gary
+ * @date: 2020/12/24 00:10
  * @desciption:
  */
 

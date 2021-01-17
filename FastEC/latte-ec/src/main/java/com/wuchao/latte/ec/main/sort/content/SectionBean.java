@@ -3,8 +3,8 @@ package com.wuchao.latte.ec.main.sort.content;
 import com.chad.library.adapter.base.entity.SectionEntity;
 
 /**
- * @author: wuchao
- * @date: 2017/12/20 21:18
+ * @author: gary
+ * @date: 2020/12/20 21:18
  * @desciption:
  */
 

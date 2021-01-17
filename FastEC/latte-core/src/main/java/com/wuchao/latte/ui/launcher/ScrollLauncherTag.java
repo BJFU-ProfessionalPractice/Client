@@ -1,8 +1,8 @@
 package com.wuchao.latte.ui.launcher;
 
 /**
- * @author: wuchao
- * @date: 2017/11/16 22:15
+ * @author: gary
+ * @date: 2020/11/16 22:15
  * @desciption:
  */
 

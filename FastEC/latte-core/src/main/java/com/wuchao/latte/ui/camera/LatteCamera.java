@@ -6,8 +6,8 @@ import com.wuchao.latte.Fragment.PermissionCheckerFragment;
 import com.wuchao.latte.util.file.FileUtil;
 
 /**
- * @author: wuchao
- * @date: 2018/1/4 23:17
+ * @author: gary
+ * @date: 1/4 23:17
  * @desciption: 照相机调用类
  */
 

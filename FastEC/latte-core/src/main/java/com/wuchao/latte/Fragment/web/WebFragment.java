@@ -14,8 +14,8 @@ import java.lang.ref.ReferenceQueue;
 import java.lang.ref.WeakReference;
 
 /**
- * @author: wuchao
- * @date: 2017/11/28 22:45
+ * @author: gary
+ * @date: 2020/11/28 22:45
  * @desciption:
  */
 

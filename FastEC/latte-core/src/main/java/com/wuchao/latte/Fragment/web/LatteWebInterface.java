@@ -7,8 +7,8 @@ import com.wuchao.latte.Fragment.web.event.Event;
 import com.wuchao.latte.Fragment.web.event.EventManager;
 
 /**
- * @author: wuchao
- * @date: 2017/11/28 23:06
+ * @author: gary
+ * @date: 2020/11/28 23:06
  * @desciption:
  */
 

@@ -8,8 +8,8 @@ import com.wuchao.latte.ui.loader.LatteLoader;
 import com.wuchao.latte.util.log.LatteLogger;
 
 /**
- * @author: wuchao
- * @date: 2018/1/1 18:14
+ * @author: gary
+ * @date: 1/1 18:14
  * @desciption:
  */
 

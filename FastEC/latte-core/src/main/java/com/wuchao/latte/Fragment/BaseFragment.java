@@ -22,8 +22,8 @@ import me.yokeyword.fragmentation.SupportHelper;
 import me.yokeyword.fragmentation.anim.FragmentAnimator;
 
 /**
- * @author: wuchao
- * @date: 2017/10/22 22:54
+ * @author: gary
+ * @date: 2020/10/22 22:54
  * @desciption:
  */
 

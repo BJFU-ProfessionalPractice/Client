@@ -24,8 +24,8 @@ import butterknife.BindView;
 import butterknife.OnClick;
 
 /**
- * @author: wuchao
- * @date: 2018/1/1 21:48
+ * @author: gary
+ * @date: 1/1 21:48
  * @desciption:
  */
 

@@ -1,8 +1,8 @@
 package com.wuchao.latte.Fragment.bottom;
 
 /**
- * @author: wuchao
- * @date: 2017/12/2 18:15
+ * @author: gary
+ * @date: 2020/12/2 18:15
  * @desciption:
  */
 

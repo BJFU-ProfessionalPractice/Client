@@ -7,8 +7,8 @@ import android.util.AttributeSet;
 import me.dm7.barcodescanner.core.ViewFinderView;
 
 /**
- * @author: wuchao
- * @date: 2018/1/11 22:43
+ * @author: gary
+ * @date: 1/11 22:43
  * @desciption:
  */
 

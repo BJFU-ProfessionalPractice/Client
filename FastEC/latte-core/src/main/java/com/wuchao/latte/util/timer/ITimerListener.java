@@ -1,8 +1,8 @@
 package com.wuchao.latte.util.timer;
 
 /**
- * @author: wuchao
- * @date: 2017/11/15 21:32
+ * @author: gary
+ * @date: 2020/11/15 21:32
  * @desciption:
  */
 

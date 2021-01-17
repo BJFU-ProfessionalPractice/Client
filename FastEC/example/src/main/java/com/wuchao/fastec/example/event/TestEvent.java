@@ -7,8 +7,8 @@ import android.widget.Toast;
 import com.wuchao.latte.Fragment.web.event.Event;
 
 /**
- * @author: wuchao
- * @date: 2017/12/23 18:13
+ * @author: gary
+ * @date: 2020/12/23 18:13
  * @desciption:
  */
 

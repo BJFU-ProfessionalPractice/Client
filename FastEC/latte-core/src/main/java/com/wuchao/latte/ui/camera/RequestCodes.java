@@ -3,8 +3,8 @@ package com.wuchao.latte.ui.camera;
 import com.yalantis.ucrop.UCrop;
 
 /**
- * @author: wuchao
- * @date: 2018/1/4 23:18
+ * @author: gary
+ * @date: 1/4 23:18
  * @desciption: 请求码存储
  */
 

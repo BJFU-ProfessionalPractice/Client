@@ -4,8 +4,8 @@ import com.wuchao.latte.annotations.AppRegisterGenerator;
 import com.wuchao.latte.wechat.templates.AppRegisterTemplate;
 
 /**
- * @author: wuchao
- * @date: 2017/12/27 23:05
+ * @author: gary
+ * @date: 2020/12/27 23:05
  * @desciption:
  */
 @AppRegisterGenerator(packageName = "com.wuchao.fastec.example",

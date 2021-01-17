@@ -4,8 +4,8 @@ import com.tencent.mm.opensdk.constants.ConstantsAPI;
 import com.tencent.mm.opensdk.modelbase.BaseResp;
 
 /**
- * @author: wuchao
- * @date: 2018/1/1 21:32
+ * @author: gary
+ * @date: 1/1 21:32
  * @desciption:
  */
 

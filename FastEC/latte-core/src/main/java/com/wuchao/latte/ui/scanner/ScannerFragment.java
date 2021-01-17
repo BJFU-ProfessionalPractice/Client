@@ -13,8 +13,8 @@ import me.dm7.barcodescanner.zbar.Result;
 import me.dm7.barcodescanner.zbar.ZBarScannerView;
 
 /**
- * @author: wuchao
- * @date: 2018/1/11 21:50
+ * @author: gary
+ * @date: 1/11 21:50
  * @desciption:
  */
 

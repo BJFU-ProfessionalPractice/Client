@@ -15,8 +15,8 @@ import java.util.Set;
 import cn.jpush.android.api.JPushInterface;
 
 /**
- * @author: wuchao
- * @date: 2018/1/8 22:09
+ * @author: gary
+ * @date: 1/8 22:09
  * @desciption:
  */
 

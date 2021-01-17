@@ -21,8 +21,8 @@ import cn.jpush.android.api.JPushInterface;
 import okhttp3.logging.HttpLoggingInterceptor;
 
 /**
- * @author: wuchao
- * @date: 2017/10/16 22:26
+ * @author: gary
+ * @date: 2020/10/16 22:26
  * @desciption:
  */
 

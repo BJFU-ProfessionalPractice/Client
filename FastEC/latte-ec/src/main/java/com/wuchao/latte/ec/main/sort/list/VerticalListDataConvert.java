@@ -11,8 +11,8 @@ import com.wuchao.latte.ui.recycler.MultipleItemEntity;
 import java.util.ArrayList;
 
 /**
- * @author: wuchao
- * @date: 2017/12/17 22:22
+ * @author: gary
+ * @date: 2020/12/17 22:22
  * @desciption:
  */
 

@@ -1,8 +1,8 @@
 package com.wuchao.latte.ec.main.personal.list;
 
 /**
- * @author: wuchao
- * @date: 2018/1/2 22:40
+ * @author: gary
+ * @date: 1/2 22:40
  * @desciption:
  */
 

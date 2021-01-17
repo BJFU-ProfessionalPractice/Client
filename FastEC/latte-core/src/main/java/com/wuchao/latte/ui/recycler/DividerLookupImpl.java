@@ -4,8 +4,8 @@ import com.choices.divider.Divider;
 import com.choices.divider.DividerItemDecoration;
 
 /**
- * @author: wuchao
- * @date: 2017/12/10 22:35
+ * @author: gary
+ * @date: 2020/12/10 22:35
  * @desciption:
  */
 

@@ -7,8 +7,8 @@ import io.reactivex.android.schedulers.AndroidSchedulers;
 import io.reactivex.schedulers.Schedulers;
 
 /**
- * @author: wuchao
- * @date: 2018/1/22 11:40
+ * @author: gary
+ * @date: 1/2 11:40
  * @desciption:
  */
 

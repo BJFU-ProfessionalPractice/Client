@@ -10,8 +10,8 @@ import com.wuchao.latte.ui.recycler.MultipleFields;
 import com.wuchao.latte.ui.recycler.MultipleItemEntity;
 
 /**
- * @author: wuchao
- * @date: 2017/12/17 16:24
+ * @author: gary
+ * @date: 2020/12/17 16:24
  * @desciption:
  */
 

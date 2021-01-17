@@ -6,8 +6,8 @@ import android.webkit.WebView;
 import com.wuchao.latte.Fragment.web.WebFragment;
 
 /**
- * @author: wuchao
- * @date: 2017/11/29 22:22
+ * @author: gary
+ * @date: 2020/11/29 22:22
  * @desciption:
  */
 

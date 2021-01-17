@@ -9,8 +9,8 @@ import com.wuchao.latte.util.storage.LattePreference;
 import java.util.ArrayList;
 
 /**
- * @author: wuchao
- * @date: 2018/1/16 22:20
+ * @author: gary
+ * @date: 1/16 22:20
  * @desciption:
  */
 

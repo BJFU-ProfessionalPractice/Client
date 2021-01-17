@@ -5,8 +5,8 @@ import android.support.annotation.ColorInt;
 import com.choices.divider.DividerItemDecoration;
 
 /**
- * @author: wuchao
- * @date: 2017/12/10 22:33
+ * @author: gary
+ * @date: 2020/12/10 22:33
  * @desciption:
  */
 

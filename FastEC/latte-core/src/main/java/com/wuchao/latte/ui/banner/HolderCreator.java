@@ -3,8 +3,8 @@ package com.wuchao.latte.ui.banner;
 import com.bigkoo.convenientbanner.holder.CBViewHolderCreator;
 
 /**
- * @author: wuchao
- * @date: 2017/12/10 20:25
+ * @author: gary
+ * @date: 2020/12/10 20:25
  * @desciption:
  */
 

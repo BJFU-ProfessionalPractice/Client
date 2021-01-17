@@ -15,8 +15,8 @@ import com.wuchao.latte.util.log.LatteLogger;
 import com.wuchao.latte.util.storage.LattePreference;
 
 /**
- * @author: wuchao
- * @date: 2017/11/29 15:59
+ * @author: gary
+ * @date: 2020/11/29 15:59
  * @desciption:
  */
 

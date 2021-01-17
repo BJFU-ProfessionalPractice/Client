@@ -9,8 +9,8 @@ import com.wuchao.latte.net.callback.ISuccess;
 import java.util.WeakHashMap;
 
 /**
- * @author: wuchao
- * @date: 2017/11/6 22:48
+ * @author: gary
+ * @date: 2020/11/6 22:48
  * @desciption:
  */
 

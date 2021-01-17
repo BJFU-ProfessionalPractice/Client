@@ -24,8 +24,8 @@ import butterknife.BindView;
 import me.yokeyword.fragmentation.ISupportFragment;
 
 /**
- * @author: wuchao
- * @date: 2017/12/2 17:43
+ * @author: gary
+ * @date: 2020/12/2 17:43
  * @desciption:
  */
 

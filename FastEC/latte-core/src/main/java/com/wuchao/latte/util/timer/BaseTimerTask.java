@@ -3,8 +3,8 @@ package com.wuchao.latte.util.timer;
 import java.util.TimerTask;
 
 /**
- * @author: wuchao
- * @date: 2017/11/14 22:29
+ * @author: gary
+ * @date: 2020/11/14 22:29
  * @desciption:
  */
 

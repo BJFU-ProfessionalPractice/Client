@@ -6,8 +6,8 @@ import android.view.View;
 import com.daimajia.androidanimations.library.BaseViewAnimator;
 
 /**
- * @author: wuchao
- * @date: 2018/1/20 22:07
+ * @author: gary
+ * @date: 1/2 22:07
  * @desciption:
  */
 

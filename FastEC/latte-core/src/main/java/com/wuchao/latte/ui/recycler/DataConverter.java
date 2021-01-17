@@ -3,8 +3,8 @@ package com.wuchao.latte.ui.recycler;
 import java.util.ArrayList;
 
 /**
- * @author: wuchao
- * @date: 2017/12/6 21:46
+ * @author: gary
+ * @date: 2020/12/6 21:46
  * @desciption:
  */
 

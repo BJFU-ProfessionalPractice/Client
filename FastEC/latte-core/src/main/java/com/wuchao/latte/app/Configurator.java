@@ -18,8 +18,8 @@ import java.util.HashMap;
 import okhttp3.Interceptor;
 
 /**
- * @author: wuchao
- * @date: 2017/10/16 22:37
+ * @author: gary
+ * @date: 2020/10/16 22:37
  * @desciption: 配置文件的存储及获取
  */
 

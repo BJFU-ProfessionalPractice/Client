@@ -5,8 +5,8 @@ import com.wuchao.latte.util.log.LatteLogger;
 import okhttp3.logging.HttpLoggingInterceptor;
 
 /**
- * @author: wuchao
- * @date: 2018/1/31 18:22
+ * @author: gary
+ * @date: 1/3 18:22
  * @desciption: 拦截器工具类!
  */
 

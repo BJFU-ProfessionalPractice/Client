@@ -21,8 +21,8 @@ import com.wuchao.latte.util.callback.IGlobalCallback;
 import com.wuchao.latte.util.log.LatteLogger;
 
 /**
- * @author: wuchao
- * @date: 2018/1/4 22:26
+ * @author: gary
+ * @date: 1/4 22:26
  * @desciption:
  */
 

@@ -3,8 +3,8 @@ package com.wuchao.latte.ui.recycler;
 import com.google.auto.value.AutoValue;
 
 /**
- * @author: wuchao
- * @date: 2017/12/17 15:16
+ * @author: gary
+ * @date: 2020/12/17 15:16
  * @desciption:
  */
 @AutoValue

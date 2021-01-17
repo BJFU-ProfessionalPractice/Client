@@ -5,8 +5,8 @@ import android.content.Context;
 import org.greenrobot.greendao.database.Database;
 
 /**
- * @author: wuchao
- * @date: 2017/11/26 22:24
+ * @author: gary
+ * @date: 2020/11/26 22:24
  * @desciption:
  */
 

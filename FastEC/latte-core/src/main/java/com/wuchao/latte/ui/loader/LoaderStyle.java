@@ -1,8 +1,8 @@
 package com.wuchao.latte.ui.loader;
 
 /**
- * @author: wuchao
- * @date: 2017/10/26 22:56
+ * @author: gary
+ * @date: 2020/10/26 22:56
  * @desciption:
  */
 @SuppressWarnings("unused")

@@ -6,8 +6,8 @@ import java.lang.annotation.RetentionPolicy;
 import java.lang.annotation.Target;
 
 /**
- * @author: wuchao
- * @date: 2017/12/26 22:51
+ * @author: gary
+ * @date: 2020/12/26 22:51
  * @desciption: 用来传入包名，微信需要的模板代码也就是绕过微信的限制，不需要在主程序里写
  */
 

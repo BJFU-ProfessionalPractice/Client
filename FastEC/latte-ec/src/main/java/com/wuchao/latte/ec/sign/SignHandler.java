@@ -10,8 +10,8 @@ import com.wuchao.latte.ec.database.UserProfile;
 import com.wuchao.ec.R;
 
 /**
- * @author: wuchao
- * @date: 2017/11/27 17:55
+ * @author: gary
+ * @date: 2020/11/27 17:55
  * @desciption:
  */
 

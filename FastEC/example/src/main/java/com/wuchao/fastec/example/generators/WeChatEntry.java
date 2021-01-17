@@ -4,8 +4,8 @@ import com.wuchao.latte.annotations.EntryGenerator;
 import com.wuchao.latte.wechat.templates.WXEntryTemplate;
 
 /**
- * @author: wuchao
- * @date: 2017/12/27 23:05
+ * @author: gary
+ * @date: 2020/12/27 23:05
  * @desciption:
  */
 @EntryGenerator(packageName = "com.wuchao.fastec.example",

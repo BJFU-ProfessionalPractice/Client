@@ -11,8 +11,8 @@ import com.wuchao.ec.R;
 import com.wuchao.latte.ui.recycler.RgbValue;
 
 /**
- * @author: wuchao
- * @date: 2017/12/17 12:49
+ * @author: gary
+ * @date: 2020/12/17 12:49
  * @desciption:
  */
 

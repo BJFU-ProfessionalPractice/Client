@@ -1,8 +1,8 @@
 package com.wuchao.latte.ui.refresh;
 
 /**
- * @author: wuchao
- * @date: 2017/12/10 20:51
+ * @author: gary
+ * @date: 2020/12/10 20:51
  * @desciption:
  */
 

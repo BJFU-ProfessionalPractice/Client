@@ -6,8 +6,8 @@ import com.tencent.mm.opensdk.modelbase.BaseReq;
 import com.wuchao.latte.wechat.BaseWXPayEntryActivity;
 
 /**
- * @author: wuchao
- * @date: 2017/12/27 23:04
+ * @author: gary
+ * @date: 2020/12/27 23:04
  * @desciption:
  */
 

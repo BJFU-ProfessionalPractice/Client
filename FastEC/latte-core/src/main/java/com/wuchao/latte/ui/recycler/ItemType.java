@@ -1,8 +1,8 @@
 package com.wuchao.latte.ui.recycler;
 
 /**
- * @author: wuchao
- * @date: 2017/12/6 23:16
+ * @author: gary
+ * @date: 2020/12/6 23:16
  * @desciption:
  */
 

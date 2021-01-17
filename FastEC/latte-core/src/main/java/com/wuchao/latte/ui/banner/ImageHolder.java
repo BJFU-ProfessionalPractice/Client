@@ -10,8 +10,8 @@ import com.bumptech.glide.load.engine.DiskCacheStrategy;
 import com.bumptech.glide.request.RequestOptions;
 
 /**
- * @author: wuchao
- * @date: 2017/12/10 20:25
+ * @author: gary
+ * @date: 2020/12/10 20:25
  * @desciption:
  */
 

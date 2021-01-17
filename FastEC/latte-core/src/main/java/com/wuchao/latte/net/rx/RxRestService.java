@@ -20,8 +20,8 @@ import retrofit2.http.Streaming;
 import retrofit2.http.Url;
 
 /**
- * @author: wuchao
- * @date: 2017/10/23 22:44
+ * @author: gary
+ * @date: 2020/10/23 22:44
  * @desciption:
  */
 

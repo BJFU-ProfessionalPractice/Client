@@ -27,8 +27,8 @@ import java.util.ArrayList;
 import java.util.List;
 
 /**
- * @author: wuchao
- * @date: 2018/1/10 22:15
+ * @author: gary
+ * @date: 1/10 22:15
  * @desciption: 自动照片布局
  */
 

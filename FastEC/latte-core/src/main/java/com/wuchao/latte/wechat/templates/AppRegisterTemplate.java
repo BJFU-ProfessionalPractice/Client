@@ -4,8 +4,8 @@ import com.wuchao.latte.Fragment.LatteFragment;
 import com.wuchao.latte.activitys.ProxyActivity;
 
 /**
- * @author: wuchao
- * @date: 2017/12/27 23:04
+ * @author: gary
+ * @date: 2020/12/27 23:04
  * @desciption:
  */
 

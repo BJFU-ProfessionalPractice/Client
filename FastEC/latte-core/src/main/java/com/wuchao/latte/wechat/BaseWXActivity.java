@@ -8,8 +8,8 @@ import android.support.v7.app.AppCompatActivity;
 import com.tencent.mm.opensdk.openapi.IWXAPIEventHandler;
 
 /**
- * @author: wuchao
- * @date: 2017/12/28 22:51
+ * @author: gary
+ * @date: 2020/12/28 22:51
  * @desciption:
  */
 

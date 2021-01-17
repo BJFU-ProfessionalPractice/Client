@@ -48,8 +48,8 @@ import me.yokeyword.fragmentation.anim.DefaultHorizontalAnimator;
 import me.yokeyword.fragmentation.anim.FragmentAnimator;
 
 /**
- * @author: wuchao
- * @date: 2017/12/17 16:34
+ * @author: gary
+ * @date: 2020/12/17 16:34
  * @desciption:
  */
 

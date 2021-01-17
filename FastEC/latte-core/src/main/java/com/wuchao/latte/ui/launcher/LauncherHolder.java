@@ -7,8 +7,8 @@ import android.widget.ImageView;
 import com.bigkoo.convenientbanner.holder.Holder;
 
 /**
- * @author: wuchao
- * @date: 2017/11/15 23:27
+ * @author: gary
+ * @date: 2020/11/15 23:27
  * @desciption:
  */
 

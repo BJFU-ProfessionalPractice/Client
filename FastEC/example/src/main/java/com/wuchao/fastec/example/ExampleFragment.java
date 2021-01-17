@@ -15,8 +15,8 @@ import io.reactivex.disposables.Disposable;
 import io.reactivex.schedulers.Schedulers;
 
 /**
- * @author: wuchao
- * @date: 2017/10/22 23:15
+ * @author: gary
+ * @date: 2020/10/22 23:15
  * @desciption:
  */
 

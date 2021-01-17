@@ -4,8 +4,8 @@ import io.reactivex.Observer;
 import io.reactivex.disposables.Disposable;
 
 /**
- * @author: wuchao
- * @date: 2018/2/1 18:47
+ * @author: gary
+ * @date: 1/1 18:47
  * @desciption: 基类BaseObserver
  */
 
