@@ -37,7 +37,8 @@ public class ExampleApp extends Application {
         super.onCreate();
 //        String baseUrl = "http://952cloud.top/RestServer/api/";
 //        String baseUrl="http://oxjde2kpq.bkt.clouddn.com/";
-        String baseUrl="https://e047e686-ffad-4d52-9ff8-27dc01ac747d.mock.pstmn.io";
+//        String baseUrl="https://e047e686-ffad-4d52-9ff8-27dc01ac747d.mock.pstmn.io";
+        String baseUrl= "https://eb787e87-c0dc-4a51-9f25-0b251e8e434e.mock.pstmn.io";
 //        String baseUrl="172.26.217.104:8082";
         Latte.init(this)
                 .withIcon(new FontAwesomeModule())
@@ -57,7 +58,7 @@ public class ExampleApp extends Application {
         initStetho();
         DatabaseManager.getInstance().init(this);
         //开启极光推送
-        JPushInterface.setDebugMode(true);
+        JPushInterface.setDebugMode(false);
         JPushInterface.init(this);
 
         CallbackManager.getInstance()

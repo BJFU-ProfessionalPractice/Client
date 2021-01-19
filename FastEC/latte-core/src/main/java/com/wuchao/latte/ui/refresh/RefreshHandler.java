@@ -122,6 +122,6 @@ public class RefreshHandler implements SwipeRefreshLayout.OnRefreshListener, Bas
 
     @Override
     public void onLoadMoreRequested() {
-        paging("refresh.php?index=");
+//        paging("refresh.php?index=");
     }
 }
